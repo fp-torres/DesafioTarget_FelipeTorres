@@ -8,7 +8,7 @@ public class Produto
     public int CodigoProduto { get; set; }
 
     [JsonPropertyName("descricaoProduto")]
-    public string DescricaoProduto { get; set; } = string.Empty; // Inicializa vazio
+    public string DescricaoProduto { get; set; } = string.Empty;
 
     [JsonPropertyName("estoque")]
     public int Estoque { get; set; }
@@ -17,5 +17,5 @@ public class Produto
 public class DadosEstoque
 {
     [JsonPropertyName("estoque")]
-    public List<Produto> Produtos { get; set; } = new(); // Inicializa a lista
+    public List<Produto> Produtos { get; set; } = new();
 }

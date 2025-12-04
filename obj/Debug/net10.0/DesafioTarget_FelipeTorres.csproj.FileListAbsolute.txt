@@ -12,3 +12,4 @@ C:\xampp\htdocs\DesafioTarget_FelipeTorres\obj\Debug\net10.0\refint\DesafioTarge
 C:\xampp\htdocs\DesafioTarget_FelipeTorres\obj\Debug\net10.0\DesafioTarget_FelipeTorres.pdb
 C:\xampp\htdocs\DesafioTarget_FelipeTorres\obj\Debug\net10.0\DesafioTarget_FelipeTorres.genruntimeconfig.cache
 C:\xampp\htdocs\DesafioTarget_FelipeTorres\obj\Debug\net10.0\ref\DesafioTarget_FelipeTorres.dll
+C:\xampp\htdocs\DesafioTarget_FelipeTorres\obj\Debug\net10.0\DesafioTarget_FelipeTorres.sourcelink.json
